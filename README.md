@@ -11,3 +11,12 @@ Collection of configuration files and setup scripts for new machines.
   - Prettier: Linting and configurable lint fixing
   - Todo Tree: Highlight "// TODO: ..." instances in code
   - PlatformIO IDE: Integrate vscode with embedded toolchains
+
+## Shell customizations:
+
+- [Add git autocomplete and branch tracking in prompt](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
+- [Edit bash prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)
+
+## Linting tools
+
+- Web: Prettier + eslint
