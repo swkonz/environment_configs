@@ -17,6 +17,9 @@ Collection of configuration files and setup scripts for new machines.
 - [Add git autocomplete and branch tracking in prompt](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash)
 - [Edit bash prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)
 
+## Python
+- Virtual env tool? Tried pyenv and python-virtualenv. No clear winner at the moment
+
 ## Linting tools
 
 - Web: Prettier + eslint
