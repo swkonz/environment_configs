@@ -22,6 +22,4 @@ set hlsearch			" highlight matches
 set foldenable			" enable line folding
 set foldlevelstart=10	" open most folds by default
 
-" Enable mouse
-set mouse=a
 
